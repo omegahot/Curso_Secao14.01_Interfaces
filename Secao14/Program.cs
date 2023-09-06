@@ -22,7 +22,7 @@ class Program
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
@@ -33,6 +33,10 @@ class Program
         {
             Console.WriteLine("ERRO: Formato de data inválido. Utilizar o formato (dd/MM/yyyy hh:mm) ");
             Console.WriteLine(e.Message);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("ERRO: " + e.Message);
         }
         
     }
