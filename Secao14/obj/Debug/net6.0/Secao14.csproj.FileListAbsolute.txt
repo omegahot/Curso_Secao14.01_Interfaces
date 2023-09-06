@@ -1,0 +1,15 @@
+C:\Curso\c_sharp-curso\Secao14\Secao14\bin\Debug\net6.0\Secao14.exe
+C:\Curso\c_sharp-curso\Secao14\Secao14\bin\Debug\net6.0\Secao14.deps.json
+C:\Curso\c_sharp-curso\Secao14\Secao14\bin\Debug\net6.0\Secao14.runtimeconfig.json
+C:\Curso\c_sharp-curso\Secao14\Secao14\bin\Debug\net6.0\Secao14.dll
+C:\Curso\c_sharp-curso\Secao14\Secao14\bin\Debug\net6.0\Secao14.pdb
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.csproj.AssemblyReference.cache
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.AssemblyInfoInputs.cache
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.AssemblyInfo.cs
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.csproj.CoreCompileInputs.cache
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.dll
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\refint\Secao14.dll
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.pdb
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\Secao14.genruntimeconfig.cache
+C:\Curso\c_sharp-curso\Secao14\Secao14\obj\Debug\net6.0\ref\Secao14.dll
